@@ -4,6 +4,6 @@
 [第七章 字符串和因子](https://github.com/BlackTunami/learning_R.github.io/issues/1)  
 第八章 流程控制和循环  
 第九章 高级循环  
-その他1 读取数据
-その他2 NA处理
+その他1 读取数据  
+その他2 NA处理  
 

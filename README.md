@@ -7,3 +7,4 @@
 その他1 读取数据  
 その他2 NA处理  
 
+[LDA](https://towardsdatascience.com/linear-discriminant-analysis-lda-101-using-r-6a97217a55a6)

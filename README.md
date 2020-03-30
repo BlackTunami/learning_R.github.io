@@ -7,4 +7,5 @@
 その他1 读取数据  
 その他2 NA处理  
 
-[LDA](https://towardsdatascience.com/linear-discriminant-analysis-lda-101-using-r-6a97217a55a6)
+[LDA](https://towardsdatascience.com/linear-discriminant-analysis-lda-101-using-r-6a97217a55a6)  
+[cross validation](http://www.sthda.com/english/articles/38-regression-model-validation/157-cross-validation-essentials-in-r/)

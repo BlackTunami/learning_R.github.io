@@ -12,4 +12,15 @@
 [cross validation](http://www.sthda.com/english/articles/38-regression-model-validation/157-cross-validation-essentials-in-r/)
 
 # Art of R Programming
-<img width="250" height="350" src="https://github.com/BlackTunami/learning_R.github.io/blob/master/51sGGydPkYL.jpg"/>
+<img width="250" height="350" src="https://github.com/BlackTunami/learning_R.github.io/blob/master/51sGGydPkYL.jpg"/>  
+
+第二章   向量  
+第三章   行列和序列  
+第四章   列表  
+第五章   数据框  
+第六章   因子  
+第七章   编程构造  
+第八章   数学计算和模拟  
+第九章   对象定向型编程  
+第十一章 文字列操作  
+

@@ -195,6 +195,13 @@ tabdom(dtab,3)
 ```
 order( )
 
+aggregate(data,list(),function)  
+
+cut(x,b,labels=F)
+x根据b分段
+
+
+
 
 
 
